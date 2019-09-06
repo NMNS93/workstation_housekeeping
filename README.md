@@ -1,6 +1,13 @@
 # Workstation Housekeeping
 
-Utilities for managing data on the NGS workstation.
+Utilities for managing data on the local NGS workstation
+
+## Reference
+* [wscleaner](wscleaner/README.md)
+* [backup_runfolder.py](backup_runfolder.py)
+* [findfastqs.sh](findfastqs.sh)
+
+<br>
 
 ---
 
