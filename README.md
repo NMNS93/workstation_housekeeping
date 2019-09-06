@@ -7,8 +7,6 @@ Utilities for managing data on the local NGS workstation
 * [backup_runfolder.py](backup_runfolder.py)
 * [findfastqs.sh](findfastqs.sh)
 
-<br>
-
 ---
 
 ## [wscleaner](wscleaner/README.md)
